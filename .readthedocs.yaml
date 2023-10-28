@@ -9,5 +9,8 @@ python:
   install:
     - requirements: docs/requirements.txt
 
+format:
+  - pdf
+
 sphinx:
   configuration: docs/source/conf.py
