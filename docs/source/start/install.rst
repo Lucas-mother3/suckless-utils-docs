@@ -120,7 +120,7 @@ Installing scripts
 ------------------
 The suite also utilize a lot of scripts as well. For example, ``layoutmenu`` handles setting layouts easily in ``dwm``.
 
-Installing most scripts are just as easy as copying and pasting it to ``$PATH`` and ``chmod``ing if neccessary. 
+Installing most scripts are just as easy as copying and pasting it to ``$PATH`` and changing permissions if neccessary. 
 
 .. note::
   It is recommended to have ``$HOME/.local/bin`` in the ``$PATH`` variable to avoid conflicts.
@@ -132,10 +132,12 @@ Some are reliant to ``jgmenu``, notably ``shutdown`` and ``layoutmenu``.
 In ``spmenu`` some actually needs to be compiled manually. Here's the dependencies for some:
 
 ``clipmenu-spmenu`` dependencies:
+
 - ``xsel`` 
 - ``clipnotify``
 
 ``screenshot-spmenu`` dependencies:
+
 - ``curl``
 - ``xclip`` (X11)
 - ``maim`` (X11)
@@ -144,6 +146,7 @@ In ``spmenu`` some actually needs to be compiled manually. Here's the dependenci
 - ``slurp`` (Wayland)
 
 ``wallpaper-spmenu`` dependencies:
+
 - ``xwallpaper``
 
 Scripts are also necessary to make ``dwmblocks-async`` working, as well as the complete ``eww`` functionality. 
