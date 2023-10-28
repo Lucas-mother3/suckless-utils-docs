@@ -21,8 +21,9 @@ Contents
 .. toctree::
    :maxdepth: 1
    :caption: Getting started
-   /start/install
-   /start/first
-   /start/components
-   /start/patches
-   /start/oobe
+
+   start/install
+   start/first
+   start/components
+   start/patches
+   start/oobe
