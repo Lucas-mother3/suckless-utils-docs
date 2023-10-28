@@ -10,7 +10,7 @@ Welcome to the ``suckless-utils`` docs!
 It features things such as EWMH support, IPC and ``fsignal``, ``pywal`` color scheming, **dynamic** window management (tiled, floating, tabbed and stacked window types), desktop icons (``nemo-desktop``), notfications (``dunst``), and more!
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to :ref:`install` the project.
 
 .. note::
 
