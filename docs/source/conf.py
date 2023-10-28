@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'suckless-utils'
+copyright = '2023, Alexis Jhon Gaspar'
+author = 'Alexis Jhon Gaspar'
 
-release = '0.1'
-version = '0.1.0'
+release = '6.4'
+version = '6.4.1'
 
 # -- General configuration
 
