@@ -11,3 +11,6 @@ In this section, we are documenting basic functionality and information about ea
 .. tip::
   You could change the keybinds of most components, but I don't usually reccommend doing it as it might
   conflict with the other component's keybinds.
+
+Core components
+---------------
